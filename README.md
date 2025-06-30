@@ -1,6 +1,6 @@
 🧩 Polylang RestAPI Helper (MVC WordPress Plugin)
 
-The polylang-restapi-helper plugin is a perfect, focused example of the [ATA MVC WordPress Plugin framework](https://www.globaliser.com/ata/) in action. Its purpose is simple: to expose some of the Polylang plugin’s functions through the WordPress REST API.
+The polylang-restapi-helper plugin is a perfect, focused example of the [ATA MVC WordPress Plugin Framework](https://www.globaliser.com/ata/) in action. Its purpose is simple: to expose some of the Polylang plugin’s functions through the WordPress REST API.
 
 ⸻
 
